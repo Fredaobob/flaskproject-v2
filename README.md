@@ -1,2 +1,2 @@
 # flask-practice
-A flask dynamic website.
+Flask and bootstrap static webpage
